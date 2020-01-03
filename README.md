@@ -1,2 +1,2 @@
 # tax-config
-Configuration storage for tax-info project.
+Git-based Spring Cloud configuration storage for tax-info project.
